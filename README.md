@@ -1,4 +1,4 @@
-# Express API Starter
+# 🔥 MongoDB and Express API Starter Pack 🔥
 
 Includes API Server utilities:
 
@@ -17,8 +17,8 @@ Development utilities:
   * ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 * [mocha](https://www.npmjs.com/package/mocha)
   * ☕️ Simple JavaScript test framework for Node.js & The Browser ☕️
-* [supertest](https://www.npmjs.com/package/supertest)
-  * HTTP assertions made easy via superagent.
+* [chai](https://www.npmjs.com/package/chai)
+  * Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
 ## Setup
 
