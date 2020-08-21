@@ -8,6 +8,11 @@ Includes API Server utilities:
   * Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
 * [dotenv](https://www.npmjs.com/package/dotenv)
   * Dotenv is a zero-dependency module that loads environment variables from a `.env` file into `process.env`
+* [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
+  * Basic rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+* [express-slow-down](https://www.npmjs.com/package/express-slow-down)
+  * Basic rate-limiting middleware for Express that slows down responses rather than blocking them outright. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+
 
 Development utilities:
 
